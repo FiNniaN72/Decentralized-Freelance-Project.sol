@@ -50,3 +50,5 @@ Decentralized-Freelance-Platform/
 This platform demonstrates how blockchain technology can create more efficient, transparent, and fair freelance marketplaces by removing traditional intermediaries and their associated fees.
 
 Contact Adress: 0xE981600efA8631621122e8E8BDBB73f91109F1B5
+<img width="1910" height="977" alt="image" src="https://github.com/user-attachments/assets/1f1cb5a7-27a0-4165-8e69-a91503501cfe" />
+
